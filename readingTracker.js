@@ -3,6 +3,8 @@
 // Module 4 Assignment 4A: Review readingTracker.js
 // Date: 07/04/2025
 
+// The public GitHub repository URL:
+// https://github.com/mlwere1977/cs81-module4a-reviewtracker.git
 // Weekly reading log: each entry tracks the day, book title, and minutes read
 const weeklyReadingLog = [
   { day: "Monday", bookTitle: "Dune", minutesRead: 30 },
